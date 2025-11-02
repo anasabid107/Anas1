@@ -23,8 +23,10 @@ public class ComputeAverage {
         int no3=input.nextInt();
         double avg=(no1+no2+no3)/3;
         System.out.println("Average of three num is="+avg);
+        System.out.println("Hello anas");
                 
         // TODO code application logic here
     }
     
 }
+
